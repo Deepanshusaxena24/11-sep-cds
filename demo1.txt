@@ -1,2 +1,5 @@
-first line of code
-writing 2nd line of code
+first line of code writing
+2nd line of code 
+
+adding some more lines of code for different function 
+this is 3rd changes
